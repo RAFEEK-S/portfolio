@@ -23,7 +23,7 @@ function App() {
         </div>
           
         </div>
-        </section>iiii
+        </section>
       </div>
     </div>
   );
